@@ -15,4 +15,4 @@ Silakan fork repo ini dan submit pull request jika punya ide script ml baru.
 
 Keyword: script ml, script mlbb, mobile legends script.
 
-![Gambar MLBB](https://example.com/gambar-mlbb.jpg)  // Tambah gambar jika ada, untuk visual.
+![Script MLBB]([https://example.com/gambar-mlbb.jpg](https://blogger.googleusercontent.com/img/a/AVvXsEgJm3qZzaKo0MH2TdGcOjl-GYlYZJW7cxA4MlwbFEOwFGvQ4J6Kyds0rF5UFiCA2hBdGjBYWwndWt5IuNe05skv1p2_tKVFcBk456TyuxJr-Wz0e_9l-eaKJvcRk6TpJHcxEbSdFk_7biiCrKQHclpyb7tL7GZLzlGKmJW8Sg2_MbvMPPL9Dpp29QkHWT-A=s614))
